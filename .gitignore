@@ -1,0 +1,14 @@
+# kernel build products
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+.*.cmd
+*.symvers
+*.order
+.tmp_versions/
+# user binaries
+user/procinfo_cli
+user/proc_walk
+__pycache__/
